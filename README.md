@@ -13,3 +13,5 @@ This repository contains my Python practice programs while learning programming 
 - Perfect Number
 - Prime Number
 - Spy Number
+- Binary Number
+- Palindrome Number
