@@ -15,3 +15,7 @@ This repository contains my Python practice programs while learning programming 
 - Spy Number
 - Binary Number
 - Palindrome Number
+- Factorial Number
+- Sum of Odd Numbers
+- Fibonacci Number
+- Maximum Number
